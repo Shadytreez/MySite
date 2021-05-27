@@ -18,6 +18,10 @@ article {
       display:flex;
       align-items:center;
     }
+.container2{
+      display:flex;
+      
+    }
 .container div{
   border:1px #ccc solid;
   padding:10px;
