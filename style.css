@@ -1,18 +1,19 @@
 table, th, td {
   border: 1px solid black;
 }
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
 body  {
   background-image: url("https://www.wallpapertip.com/wmimgs/196-1963020_website-backgrounds-website-login-page-background.jpg" );
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-size: cover;
-} 
+}
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+  color: white;
+  
 }
 article {
   float: left;
