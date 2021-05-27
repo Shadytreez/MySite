@@ -25,8 +25,8 @@ article {
       display:flex;
       align-items:center;
       flex-wrap: wrap;
-      justify-content: center;
-      align-items: center;
+      justify-content: right;
+     
     }
 
 
@@ -35,8 +35,7 @@ article {
     order:1;
   border:1px #ccc solid;
     padding:10px;
-      justify-content: center;
-  align-items: center;
+      
   }
 
   .box-2{
@@ -44,8 +43,7 @@ article {
     order:1;
     border:1px #ccc solid;
     padding:10px;
-        justify-content: center;
-  align-items: center;
+       
   }
   
  
