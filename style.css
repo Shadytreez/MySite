@@ -30,6 +30,10 @@ article {
     flex:1;
     order:2;
   }
+.box-4{
+    flex:3;
+    order:1;
+  }
   
   .box-2{
     flex:1;
