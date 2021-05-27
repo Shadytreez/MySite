@@ -7,10 +7,12 @@ header {
   text-align: center;
   font-size: 35px;
   color: white;
-background-image: url('https://hawkesburyit.com.au/wp-content/uploads/2016/04/website-background.gif');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;  
+body  {
+  background-image: url("https://i1.wp.com/www.estidia.eu/wp-content/uploads/2018/04/Savin-NY-Website-Background-Web.jpg?resize=300%2C169");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
 }
 article {
   float: left;
