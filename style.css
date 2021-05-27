@@ -25,7 +25,7 @@ article {
       display:flex;
       align-items:center;
       flex-wrap: wrap;
-      justify-content: right;
+      justify-content: center;
      
     }
 
@@ -40,14 +40,14 @@ article {
 
   .box-2{
     flex:1;
-    order:1;
+    order:2;
     border:1px #ccc solid;
     padding:10px;
        
   }
   .box-3{
     flex:1;
-    order:1;
+    order:3;
     border:1px #ccc solid;
     padding:10px;
       
