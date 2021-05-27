@@ -26,14 +26,20 @@ article {
 .box-1{
     flex:2;
     order:4;
+  border:1px #ccc solid;
+    padding:10px;
   }
 
   .box-2{
     flex:2;
     order:2;
+    border:1px #ccc solid;
+    padding:10px;
   }
   
   .box-3{
     flex:2;
     order: 3;
+    border:1px #ccc solid;
+    padding:10px;
   }
