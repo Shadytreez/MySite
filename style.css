@@ -16,7 +16,7 @@ article {
 }  
 .container{
       display:flex;
-      align-content: space-between;
+      align-items:center;
     }
 .container div{
   border:1px #ccc solid;
