@@ -7,6 +7,7 @@ header {
   text-align: center;
   font-size: 35px;
   color: white;
+  
 }
 article {
   float: left;
@@ -17,22 +18,25 @@ article {
 .container{
       display:flex;
       align-items:center;
+      flex-wrap: wrap;
+      
     }
 .container2{
       display:flex;
+      align-items:center;
       
     }
 
 .box-1{
-    flex:6;
+    flex:1;
     order:1;
   border:1px #ccc solid;
     padding:10px;
   }
 
   .box-2{
-    flex:2;
-    order:2;
+    flex:1;
+    order:1;
     border:1px #ccc solid;
     padding:10px;
   }
