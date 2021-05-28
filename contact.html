@@ -32,13 +32,19 @@
 <a href="https://www.linkedin.com/in/truman329/">LinkedIn</a>
 </div>
 <div class="box-3">
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
-  <input type="submit" value="Submit">
-</form> 
+<form action="truman.nguyen@lc.cuny.edu"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
+    Name:<br>
+    <input type="text" size="19" name="Contact-Name"><br><br>
+    Email:<br>
+    <input type="email" name="Contact-Email"><br><br> 
+    Message:<br> 
+    <textarea name="Contact-Message" rows="6″ cols="20″>
+    </textarea><br><br> 
+    <button type="submit" value="Submit">Send</button>
+</form>
 </div> 
  
  
