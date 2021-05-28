@@ -58,5 +58,13 @@ article {
     padding:10px;
       
   }
+.box-4{
+    flex:1;
+    order:4;
+    border:1px #ccc solid;
+    padding:10px;
+    flex-grow:3;
+      
+  }
   
  
