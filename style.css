@@ -1,6 +1,10 @@
 table, th, td {
   border: 1px solid black;
 }
+textarea {
+  width: 375px;
+ height: 25px;
+}
 body  {
   background-image: url("https://i0.wp.com/saintpolicesystems.com/wp-content/uploads/2018/06/blue-light-backgrounds-background-opera-image-graphics-community-speeddials.jpg?w=1920" );
   background-color: #cccccc;
