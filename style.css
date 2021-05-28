@@ -61,10 +61,8 @@ article {
 .box-4{
     flex:1;
     order:4;
-    border:1px #ccc solid;
-    padding:10px;
     flex-grow:6;
-    width: 200px;
+    width: 500px;
       
   }
   
