@@ -39,7 +39,8 @@ article {
       justify-content: center;
      
     }
-.container2{
+.container2
+    {
       display:flex;
       align-items:center;
       flex-wrap: wrap;
