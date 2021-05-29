@@ -30,7 +30,8 @@ article {
   padding: 20px;
   width: 50%;
   background-color: #f1f1f1;
-}  
+} 
+@media(min-width:468px){
 .container{
       display:flex;
       align-items:center;
@@ -45,7 +46,7 @@ article {
       justify-content: center;
       flex-direction:column;
     }
-
+}
 .box-1{
     flex:1;
     order:1;
